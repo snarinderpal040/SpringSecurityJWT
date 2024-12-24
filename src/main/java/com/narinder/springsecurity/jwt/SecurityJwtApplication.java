@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecurityEazybankApplication {
+public class SecurityJwtApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SecurityEazybankApplication.class, args);
+        SpringApplication.run(SecurityJwtApplication.class, args);
     }
 
 }
