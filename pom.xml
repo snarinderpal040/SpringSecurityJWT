@@ -9,11 +9,11 @@
 		<version>3.1.9</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.learn.springboot</groupId>
-	<artifactId>security-eazybank</artifactId>
+	<groupId>com.narinder.springboot</groupId>
+	<artifactId>jwt-implementation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>security-eazybank</name>
-	<description>security-eazybank</description>
+	<name>security-jwt-implementation</name>
+	<description>Spring Security with JWT</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
